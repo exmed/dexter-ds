@@ -1,0 +1,40 @@
+{
+	"name": "@exmed-sf/dexter-ds",
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com/exmed-sf"
+	},
+	"version": "0.0.1",
+	"description": "Dexter Design System by Exmed",
+	"scripts": {
+		"build": "rollup -c"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/exmed-sf/dexter-ds.git"
+	},
+	"author": "",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/exmed-sf/dexter-ds/issues"
+	},
+	"homepage": "https://github.com/exmed-sf/dexter-ds#readme",
+	"devDependencies": {
+		"@rollup/plugin-commonjs": "^25.0.3",
+		"@rollup/plugin-json": "^6.0.0",
+		"@rollup/plugin-node-resolve": "^15.1.0",
+		"@rollup/plugin-typescript": "^11.1.2",
+		"@types/react": "^18.2.18",
+		"react": "^18.2.0",
+		"rollup": "^3.27.2",
+		"rollup-plugin-dts": "^5.3.1",
+		"tslib": "^2.6.1",
+		"typescript": "^5.1.6"
+	},
+	"main": "dist/cjs/index.js",
+	"module": "dist/esm/index.js",
+	"files": [
+		"dist"
+	],
+	"types": "dist/index.d.ts",
+	"dependencies": {}
+}
