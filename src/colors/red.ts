@@ -29,7 +29,7 @@ const red = {
 	 * ### Red 40
 	 * ![red 40](https://dummyimage.com/48/FFCFD0/000000?text=+)
 	 */
-	40: '#FFCFD0',
+	40: '#CF4F53',
 };
 
 export default red;
