@@ -1,5 +1,5 @@
 export { default as brand } from './brand';
-export { default as individual } from './individual';
+export { default as primary } from './primary';
 export { default as empresas } from './empresas';
 export { default as neutral } from './neutral';
 export { default as feedback } from './feedback';
@@ -10,4 +10,3 @@ export { default as yellow } from './yellow';
 export { default as lilac } from './lilac';
 export { default as orange } from './orange';
 export { default as green } from './green';
-export { default as status } from './status';

@@ -26,17 +26,17 @@ Neste repositório, você encontrará
 Utilize as cores individuais ou o conjunto completo:
 
 ```js
-import { individual } from "@exmed/dexter-ds/lib/colors"
+import { primary } from "@exmed/dexter-ds/lib/colors"
 
-individual[0];	// "#B1EFE8"
+primary[20];	// "#B1EFE8"
 ...					// ...
-individual[40];		// "#D0F5F1"
+primary[40];		// "#83E7DB"
 ```
 
 ```js
 import * as colors from '@exmed/dexter-ds/lib/colors';
 
-colors; // { individual: {...}, empresas: {...}, ... }
+colors; // { primary: {...}, empresas: {...}, ... }
 
 colors.empresas[0]; // "#6161FF"
 ```
