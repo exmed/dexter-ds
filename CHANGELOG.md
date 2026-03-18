@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/exmed/dexter-ds/compare/v1.13.0...v2.0.0) (2026-03-18)
+
+
+### Features
+
+* **colors:** update all colors ([0a53f4c](https://github.com/exmed/dexter-ds/commit/0a53f4c6ebd2676341ee1013b229a1f79b51b1ff))
+
+
+### BREAKING CHANGES
+
+* **colors:** new values from existent colors
+
 # [1.13.0](https://github.com/exmed/dexter-ds/compare/v1.12.0...v1.13.0) (2026-02-09)
 
 
